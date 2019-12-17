@@ -1,0 +1,5 @@
+Programa prolog = Conjunto de clausulas de Horn en Logica de Primer Orden (Con un literal positivo)
+
+Consulta = Clausula de Horn con 0 literales positivos
+
+Ejecutar un programa prolog = Resolucion de Logica de Primer Orden
